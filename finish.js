@@ -359,6 +359,7 @@ ellipse(x,y-5,10,5);
 
 
 function setup() {
+  scale(0.6);
 createCanvas(1000, 1000);
 background(147,191,247);
   fill(72,193,136);
